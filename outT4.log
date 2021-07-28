@@ -1,0 +1,8 @@
+Test: 007 Seed: 1 Instance: a1_1 - Init Cost: 49528750
+iteration: 341284 best Cost: 44306501 size: 10
+Test: 007 Seed: 1 Instance: a1_2 - Init Cost: 1061649570
+iteration: 525962 best Cost: 791200842 size: 10
+Test: 007 Seed: 1 Instance: a1_3 - Init Cost: 583662270
+iteration: 414832 best Cost: 583006117 size: 10
+Test: 007 Seed: 1 Instance: a1_4 - Init Cost: 632499600
+iteration: 427961 best Cost: 275709445 size: 10
