@@ -1,0 +1,900 @@
+Test: 041 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 58208 best Cost: 44306501 size: 99
+Test: 041 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 106818 best Cost: 778502184 size: 90
+Test: 041 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 81764 best Cost: 583008874 size: 64
+Test: 041 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 113847 best Cost: 251757884 size: 41
+Test: 041 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 68221 best Cost: 727578431 size: 69
+Test: 041 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 101197 best Cost: 229 size: 68
+Test: 041 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 87959 best Cost: 875603513 size: 44
+Test: 041 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 85508 best Cost: 1313154237 size: 35
+Test: 041 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 72947 best Cost: 1694470166 size: 96
+Test: 041 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 97465 best Cost: 397434873 size: 81
+Test: 041 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 97091 best Cost: 3464684660 size: 30
+Test: 041 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 69284 best Cost: 1078570930 size: 30
+Test: 041 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 110080 best Cost: 198995177 size: 31
+Test: 041 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 46550 best Cost: 4678003327 size: 39
+Test: 041 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 83557 best Cost: 969891839 size: 30
+Test: 041 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 36654 best Cost: 9525879384 size: 33
+Test: 041 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 47573 best Cost: 14955903774 size: 30
+Test: 041 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 68581 best Cost: 1222085152 size: 30
+Test: 041 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 65690 best Cost: 15885876287 size: 31
+Test: 041 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 45448 best Cost: 18207150002 size: 30
+Test: 041 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 95289 best Cost: 3158777645 size: 31
+Test: 041 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 66364 best Cost: 1054811275 size: 91
+Test: 041 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 103229 best Cost: 28209865 size: 42
+Test: 041 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 45250 best Cost: 4722138635 size: 30
+Test: 041 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 78755 best Cost: 971014 size: 31
+Test: 041 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 36839 best Cost: 9546965018 size: 31
+Test: 041 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 44362 best Cost: 14556301023 size: 30
+Test: 041 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 67071 best Cost: 48306 size: 35
+Test: 041 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 68927 best Cost: 16126161543 size: 30
+Test: 041 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 45092 best Cost: 17961533438 size: 30
+Test: 042 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 37026 best Cost: 44306501 size: 89
+Test: 042 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 79317 best Cost: 778574693 size: 31
+Test: 042 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 60006 best Cost: 583008782 size: 79
+Test: 042 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 81137 best Cost: 261198926 size: 37
+Test: 042 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 49184 best Cost: 727578520 size: 66
+Test: 042 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 72852 best Cost: 220 size: 71
+Test: 042 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 62754 best Cost: 842599217 size: 30
+Test: 042 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 54851 best Cost: 1310932961 size: 31
+Test: 042 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 47496 best Cost: 1687145947 size: 46
+Test: 042 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 63249 best Cost: 371155152 size: 37
+Test: 042 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 66164 best Cost: 3503800345 size: 32
+Test: 042 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 49928 best Cost: 1077531819 size: 31
+Test: 042 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 73810 best Cost: 189150628 size: 30
+Test: 042 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 36786 best Cost: 4678012963 size: 31
+Test: 042 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 56864 best Cost: 991038855 size: 32
+Test: 042 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 28622 best Cost: 9525886587 size: 30
+Test: 042 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 37361 best Cost: 14976225349 size: 30
+Test: 042 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 44340 best Cost: 1250554547 size: 33
+Test: 042 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 50822 best Cost: 15885950302 size: 31
+Test: 042 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 36579 best Cost: 18213626004 size: 30
+Test: 042 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 65210 best Cost: 3135589792 size: 31
+Test: 042 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 46505 best Cost: 1050745269 size: 45
+Test: 042 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 70948 best Cost: 43009419 size: 31
+Test: 042 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 35883 best Cost: 4722196778 size: 30
+Test: 042 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 53228 best Cost: 1271626 size: 30
+Test: 042 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 29178 best Cost: 9546958516 size: 30
+Test: 042 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 35169 best Cost: 14565434957 size: 30
+Test: 042 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 43838 best Cost: 48408 size: 30
+Test: 042 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 49070 best Cost: 16126118125 size: 30
+Test: 042 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 38486 best Cost: 17989131529 size: 30
+Test: 043 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 64956 best Cost: 44306501 size: 85
+Test: 043 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 115701 best Cost: 782021583 size: 32
+Test: 043 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 64434 best Cost: 583007941 size: 71
+Test: 043 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 104294 best Cost: 279625982 size: 64
+Test: 043 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 59728 best Cost: 727578821 size: 73
+Test: 043 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 112455 best Cost: 367 size: 89
+Test: 043 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 92394 best Cost: 966345691 size: 31
+Test: 043 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 82861 best Cost: 1456134588 size: 38
+Test: 043 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 64285 best Cost: 1792719725 size: 46
+Test: 043 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 87761 best Cost: 514297147 size: 70
+Test: 043 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 93500 best Cost: 3754616253 size: 30
+Test: 043 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 38347 best Cost: 1114345034 size: 66
+Test: 043 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 103286 best Cost: 261493807 size: 30
+Test: 043 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 40242 best Cost: 4677966489 size: 32
+Test: 043 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 85525 best Cost: 1054320355 size: 30
+Test: 043 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 36378 best Cost: 9525909255 size: 31
+Test: 043 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 59415 best Cost: 15221085040 size: 30
+Test: 043 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 79076 best Cost: 1578007052 size: 31
+Test: 043 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 62045 best Cost: 15886630445 size: 71
+Test: 043 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 65865 best Cost: 18397882678 size: 30
+Test: 043 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 93944 best Cost: 3425318344 size: 38
+Test: 043 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 40496 best Cost: 1067382660 size: 35
+Test: 043 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 100084 best Cost: 75300844 size: 43
+Test: 043 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 42444 best Cost: 4722119001 size: 30
+Test: 043 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 74189 best Cost: 1018110 size: 30
+Test: 043 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 35224 best Cost: 9546977762 size: 32
+Test: 043 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 66170 best Cost: 14757849077 size: 30
+Test: 043 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 76754 best Cost: 129233 size: 31
+Test: 043 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 50477 best Cost: 16127944527 size: 30
+Test: 043 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 57096 best Cost: 18229143438 size: 30
+Test: 044 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 65267 best Cost: 44306501 size: 62
+Test: 044 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 112806 best Cost: 778680578 size: 34
+Test: 044 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 78113 best Cost: 583007442 size: 60
+Test: 044 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 108945 best Cost: 262233064 size: 30
+Test: 044 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 64836 best Cost: 727578518 size: 53
+Test: 044 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 102793 best Cost: 285 size: 80
+Test: 044 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 94876 best Cost: 854984087 size: 45
+Test: 044 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 86385 best Cost: 1345206616 size: 34
+Test: 044 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 62193 best Cost: 1695590392 size: 100
+Test: 044 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 95074 best Cost: 401693672 size: 89
+Test: 044 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 93896 best Cost: 3581459355 size: 30
+Test: 044 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 44951 best Cost: 1095251013 size: 30
+Test: 044 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 93066 best Cost: 194540081 size: 88
+Test: 044 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 41724 best Cost: 4677992932 size: 30
+Test: 044 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 84908 best Cost: 971686163 size: 34
+Test: 044 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 39661 best Cost: 9525882092 size: 30
+Test: 044 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 48289 best Cost: 15075317432 size: 30
+Test: 044 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 81979 best Cost: 1228399434 size: 46
+Test: 044 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 59868 best Cost: 15886170072 size: 30
+Test: 044 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 51611 best Cost: 18372513781 size: 30
+Test: 044 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 92977 best Cost: 3295159311 size: 43
+Test: 044 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 45254 best Cost: 1063771259 size: 30
+Test: 044 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 103705 best Cost: 19536596 size: 32
+Test: 044 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 43794 best Cost: 4721930404 size: 30
+Test: 044 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 84319 best Cost: 5687642 size: 30
+Test: 044 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 38435 best Cost: 9546960260 size: 37
+Test: 044 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 48753 best Cost: 14667849315 size: 30
+Test: 044 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 76097 best Cost: 105448 size: 30
+Test: 044 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 59668 best Cost: 16126333698 size: 31
+Test: 044 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 48175 best Cost: 18124061879 size: 30
+Test: 045 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 65746 best Cost: 44306501 size: 75
+Test: 045 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 91261 best Cost: 777933427 size: 34
+Test: 045 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 69174 best Cost: 583011298 size: 57
+Test: 045 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 104626 best Cost: 261035081 size: 89
+Test: 045 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 60852 best Cost: 727578435 size: 62
+Test: 045 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 108033 best Cost: 247 size: 83
+Test: 045 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 104132 best Cost: 1012664599 size: 33
+Test: 045 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 99889 best Cost: 1455732858 size: 31
+Test: 045 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 78898 best Cost: 1753974712 size: 33
+Test: 045 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 95025 best Cost: 432736247 size: 86
+Test: 045 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 95679 best Cost: 3791820339 size: 36
+Test: 045 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 40741 best Cost: 1119377925 size: 30
+Test: 045 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 98069 best Cost: 231403760 size: 30
+Test: 045 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 40499 best Cost: 4677979056 size: 30
+Test: 045 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 80902 best Cost: 961415400 size: 30
+Test: 045 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 39729 best Cost: 9525888359 size: 44
+Test: 045 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 47450 best Cost: 15742150109 size: 30
+Test: 045 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 99934 best Cost: 1224653486 size: 30
+Test: 045 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 32676 best Cost: 15887007778 size: 96
+Test: 045 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 51276 best Cost: 19055348972 size: 30
+Test: 045 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 90454 best Cost: 3745078243 size: 30
+Test: 045 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 51393 best Cost: 1073210425 size: 31
+Test: 045 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 98209 best Cost: 47548658 size: 31
+Test: 045 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 40752 best Cost: 4721857586 size: 30
+Test: 045 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 79224 best Cost: 5332343 size: 30
+Test: 045 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 36322 best Cost: 9546967499 size: 30
+Test: 045 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 47663 best Cost: 15671009256 size: 30
+Test: 045 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 76154 best Cost: 178764 size: 30
+Test: 045 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 34111 best Cost: 16127129602 size: 66
+Test: 045 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 51171 best Cost: 18887852559 size: 30
+Test: 046 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 118537 best Cost: 44306501 size: 25
+Test: 046 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 436242 best Cost: 787968485 size: 65
+Test: 046 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 227213 best Cost: 583006524 size: 52
+Test: 046 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 499510 best Cost: 258885444 size: 5
+Test: 046 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 229717 best Cost: 727578412 size: 9
+Test: 046 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 211041 best Cost: 234 size: 48
+Test: 046 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 775347 best Cost: 874650260 size: 14
+Test: 046 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 871322 best Cost: 1304305061 size: 16
+Test: 046 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 304931 best Cost: 1708451513 size: 22
+Test: 046 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 584207 best Cost: 396661177 size: 40
+Test: 046 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 655136 best Cost: 3676875959 size: 7
+Test: 046 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 231871 best Cost: 1117365757 size: 10
+Test: 046 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 241023 best Cost: 184910702 size: 5
+Test: 046 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 162497 best Cost: 4678003060 size: 9
+Test: 046 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 168730 best Cost: 958936449 size: 5
+Test: 046 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 112679 best Cost: 9525909982 size: 16
+Test: 046 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 181616 best Cost: 15214827986 size: 6
+Test: 046 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 130408 best Cost: 1230393802 size: 5
+Test: 046 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 205187 best Cost: 15886913221 size: 9
+Test: 046 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 195959 best Cost: 18320863698 size: 5
+Test: 046 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 680449 best Cost: 3293938240 size: 11
+Test: 046 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 207955 best Cost: 1091389506 size: 5
+Test: 046 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 230576 best Cost: 11423629 size: 6
+Test: 046 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 168506 best Cost: 4722596999 size: 5
+Test: 046 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 158934 best Cost: 8275054 size: 5
+Test: 046 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 98323 best Cost: 9546981712 size: 6
+Test: 046 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 176865 best Cost: 14843840137 size: 5
+Test: 046 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 146042 best Cost: 101616 size: 5
+Test: 046 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 213898 best Cost: 16126277331 size: 5
+Test: 046 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 182672 best Cost: 18141001715 size: 8
+Test: 047 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 111430 best Cost: 44306501 size: 10
+Test: 047 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 286709 best Cost: 784802802 size: 16
+Test: 047 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 215506 best Cost: 583006420 size: 94
+Test: 047 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 426035 best Cost: 268403720 size: 77
+Test: 047 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 212617 best Cost: 727578414 size: 57
+Test: 047 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 188485 best Cost: 250 size: 38
+Test: 047 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 539921 best Cost: 841962936 size: 97
+Test: 047 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 594487 best Cost: 1326702167 size: 17
+Test: 047 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 233407 best Cost: 1693548726 size: 41
+Test: 047 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 342220 best Cost: 383252316 size: 13
+Test: 047 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 330835 best Cost: 3558037533 size: 21
+Test: 047 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 188413 best Cost: 1092263876 size: 81
+Test: 047 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 196328 best Cost: 230723379 size: 10
+Test: 047 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 119998 best Cost: 4678021253 size: 21
+Test: 047 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 154786 best Cost: 970559072 size: 11
+Test: 047 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 78356 best Cost: 9525905711 size: 11
+Test: 047 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 139656 best Cost: 15064281605 size: 10
+Test: 047 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 123867 best Cost: 1252719734 size: 25
+Test: 047 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 171840 best Cost: 15885915581 size: 10
+Test: 047 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 133409 best Cost: 18305078112 size: 10
+Test: 047 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 366383 best Cost: 3165815376 size: 20
+Test: 047 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 176771 best Cost: 1069597436 size: 97
+Test: 047 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 180922 best Cost: 10817700 size: 11
+Test: 047 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 128223 best Cost: 4722182657 size: 10
+Test: 047 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 149212 best Cost: 2716222 size: 11
+Test: 047 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 84325 best Cost: 9546987294 size: 16
+Test: 047 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 139607 best Cost: 14679578180 size: 10
+Test: 047 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 133606 best Cost: 70886 size: 11
+Test: 047 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 175436 best Cost: 16126034661 size: 15
+Test: 047 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 136044 best Cost: 18094610191 size: 12
+Test: 048 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 106589 best Cost: 44306501 size: 90
+Test: 048 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 232719 best Cost: 778791059 size: 80
+Test: 048 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 198072 best Cost: 583006826 size: 83
+Test: 048 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 308305 best Cost: 258719764 size: 81
+Test: 048 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 211920 best Cost: 727578515 size: 96
+Test: 048 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 179058 best Cost: 237 size: 69
+Test: 048 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 304852 best Cost: 821511652 size: 25
+Test: 048 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 299426 best Cost: 1284450846 size: 37
+Test: 048 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 186996 best Cost: 1694497857 size: 98
+Test: 048 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 191626 best Cost: 384069579 size: 90
+Test: 048 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 205445 best Cost: 3476079836 size: 28
+Test: 048 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 138021 best Cost: 1094106067 size: 20
+Test: 048 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 184494 best Cost: 193854510 size: 21
+Test: 048 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 83924 best Cost: 4678014255 size: 21
+Test: 048 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 133873 best Cost: 974356539 size: 21
+Test: 048 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 58785 best Cost: 9525889406 size: 25
+Test: 048 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 88503 best Cost: 14977665663 size: 20
+Test: 048 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 105929 best Cost: 1234340853 size: 22
+Test: 048 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 125686 best Cost: 15885932880 size: 23
+Test: 048 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 83552 best Cost: 18217821087 size: 21
+Test: 048 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 210983 best Cost: 3185503110 size: 24
+Test: 048 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 126936 best Cost: 1072792976 size: 20
+Test: 048 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 156600 best Cost: 24664400 size: 25
+Test: 048 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 81353 best Cost: 4722289039 size: 20
+Test: 048 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 117192 best Cost: 366120 size: 21
+Test: 048 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 58635 best Cost: 9546968438 size: 20
+Test: 048 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 88357 best Cost: 14583221539 size: 20
+Test: 048 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 115353 best Cost: 61326 size: 22
+Test: 048 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 124750 best Cost: 16128676736 size: 21
+Test: 048 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 84233 best Cost: 17989421849 size: 20
+Test: 049 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 97018 best Cost: 44306501 size: 65
+Test: 049 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 185771 best Cost: 778299815 size: 79
+Test: 049 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 200077 best Cost: 583008070 size: 67
+Test: 049 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 246904 best Cost: 256009427 size: 40
+Test: 049 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 194675 best Cost: 727578625 size: 66
+Test: 049 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 162265 best Cost: 281 size: 72
+Test: 049 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 155038 best Cost: 862893234 size: 36
+Test: 049 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 166310 best Cost: 1323666846 size: 80
+Test: 049 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 152064 best Cost: 1701037113 size: 73
+Test: 049 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 156670 best Cost: 399242561 size: 70
+Test: 049 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 181881 best Cost: 3485538472 size: 31
+Test: 049 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 119768 best Cost: 1096879534 size: 30
+Test: 049 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 160604 best Cost: 195333512 size: 33
+Test: 049 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 61756 best Cost: 4678034506 size: 30
+Test: 049 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 135714 best Cost: 965229607 size: 30
+Test: 049 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 49208 best Cost: 9525884800 size: 46
+Test: 049 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 60276 best Cost: 14947958414 size: 30
+Test: 049 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 98860 best Cost: 1299790043 size: 34
+Test: 049 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 94858 best Cost: 15888289172 size: 30
+Test: 049 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 60054 best Cost: 18160377735 size: 30
+Test: 049 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 173303 best Cost: 3137106399 size: 36
+Test: 049 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 110105 best Cost: 1059909713 size: 30
+Test: 049 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 145400 best Cost: 17674849 size: 30
+Test: 049 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 58253 best Cost: 4722584393 size: 33
+Test: 049 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 107697 best Cost: 3399473 size: 30
+Test: 049 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 46487 best Cost: 9546964327 size: 30
+Test: 049 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 64511 best Cost: 14613692220 size: 30
+Test: 049 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 102263 best Cost: 59311 size: 50
+Test: 049 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 99172 best Cost: 16126350254 size: 30
+Test: 049 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 63776 best Cost: 17931283943 size: 30
+Test: 050 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 92197 best Cost: 44306501 size: 44
+Test: 050 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 193657 best Cost: 777935135 size: 60
+Test: 050 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 179220 best Cost: 583009900 size: 69
+Test: 050 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 211403 best Cost: 264614035 size: 89
+Test: 050 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 195047 best Cost: 727578528 size: 93
+Test: 050 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 141622 best Cost: 343 size: 48
+Test: 050 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 119019 best Cost: 840591959 size: 54
+Test: 050 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 103418 best Cost: 1292340361 size: 92
+Test: 050 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 128874 best Cost: 1774293528 size: 54
+Test: 050 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 133709 best Cost: 419779482 size: 98
+Test: 050 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 146227 best Cost: 3469172023 size: 40
+Test: 050 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 95160 best Cost: 1166689397 size: 40
+Test: 050 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 144489 best Cost: 221801467 size: 45
+Test: 050 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 46139 best Cost: 4678147239 size: 40
+Test: 050 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 121187 best Cost: 969019890 size: 45
+Test: 050 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 40580 best Cost: 9525877286 size: 42
+Test: 050 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 50503 best Cost: 14939632377 size: 40
+Test: 050 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 89776 best Cost: 1305499723 size: 40
+Test: 050 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 79602 best Cost: 15886480644 size: 41
+Test: 050 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 45272 best Cost: 18136444723 size: 40
+Test: 050 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 139857 best Cost: 3166295044 size: 41
+Test: 050 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 99473 best Cost: 1114137778 size: 43
+Test: 050 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 134752 best Cost: 18340486 size: 40
+Test: 050 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 45526 best Cost: 4724422097 size: 47
+Test: 050 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 94105 best Cost: 9220318 size: 40
+Test: 050 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 40393 best Cost: 9546962622 size: 48
+Test: 050 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 50683 best Cost: 14547590989 size: 40
+Test: 050 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 87330 best Cost: 58886 size: 48
+Test: 050 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 75295 best Cost: 16131344162 size: 40
+Test: 050 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 49037 best Cost: 17929991820 size: 40
+Test: 051 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 86655 best Cost: 44306501 size: 99
+Test: 051 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 175947 best Cost: 780042011 size: 65
+Test: 051 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 179741 best Cost: 583015647 size: 89
+Test: 051 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 203750 best Cost: 255811281 size: 64
+Test: 051 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 178422 best Cost: 727578536 size: 96
+Test: 051 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 131230 best Cost: 411 size: 89
+Test: 051 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 96440 best Cost: 803940920 size: 98
+Test: 051 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 91881 best Cost: 1283492380 size: 73
+Test: 051 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 113065 best Cost: 1790568532 size: 78
+Test: 051 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 121659 best Cost: 508669785 size: 95
+Test: 051 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 130786 best Cost: 3493502390 size: 50
+Test: 051 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 80222 best Cost: 1179784661 size: 50
+Test: 051 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 125985 best Cost: 205742214 size: 55
+Test: 051 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 39224 best Cost: 4678192806 size: 50
+Test: 051 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 98399 best Cost: 965690333 size: 51
+Test: 051 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 34230 best Cost: 9525877907 size: 53
+Test: 051 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 39536 best Cost: 14957585421 size: 50
+Test: 051 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 74769 best Cost: 1309992116 size: 51
+Test: 051 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 65867 best Cost: 15893013334 size: 50
+Test: 051 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 37207 best Cost: 18131107158 size: 50
+Test: 051 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 117157 best Cost: 3208438676 size: 56
+Test: 051 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 78914 best Cost: 1153659120 size: 59
+Test: 051 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 128102 best Cost: 39589993 size: 50
+Test: 051 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 39459 best Cost: 4726574385 size: 51
+Test: 051 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 91338 best Cost: 9154601 size: 52
+Test: 051 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 34171 best Cost: 9546961145 size: 51
+Test: 051 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 40011 best Cost: 14569320408 size: 50
+Test: 051 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 82608 best Cost: 57640 size: 62
+Test: 051 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 61857 best Cost: 16132389665 size: 51
+Test: 051 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 36636 best Cost: 17913891667 size: 50
+Test: 052 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 100842 best Cost: 44306501 size: 69
+Test: 052 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 212547 best Cost: 778526466 size: 31
+Test: 052 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 198592 best Cost: 583008070 size: 37
+Test: 052 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 249634 best Cost: 253542300 size: 30
+Test: 052 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 196922 best Cost: 727578625 size: 39
+Test: 052 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 161776 best Cost: 281 size: 62
+Test: 052 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 175617 best Cost: 805034460 size: 92
+Test: 052 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 172526 best Cost: 1249627078 size: 38
+Test: 052 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 151427 best Cost: 1692591197 size: 75
+Test: 052 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 157707 best Cost: 389638593 size: 59
+Test: 052 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 171667 best Cost: 3481416299 size: 32
+Test: 052 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 119904 best Cost: 1096819374 size: 31
+Test: 052 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 161103 best Cost: 244804895 size: 30
+Test: 052 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 61804 best Cost: 4678034506 size: 31
+Test: 052 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 135478 best Cost: 986772953 size: 31
+Test: 052 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 49154 best Cost: 9525884800 size: 45
+Test: 052 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 60494 best Cost: 14947572704 size: 30
+Test: 052 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 99352 best Cost: 1299789741 size: 30
+Test: 052 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 100116 best Cost: 15887079403 size: 31
+Test: 052 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 59920 best Cost: 18160377841 size: 30
+Test: 052 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 167830 best Cost: 3170778721 size: 35
+Test: 052 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 115334 best Cost: 1058866116 size: 32
+Test: 052 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 154506 best Cost: 33256627 size: 30
+Test: 052 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 58172 best Cost: 4722584393 size: 32
+Test: 052 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 99105 best Cost: 3865189 size: 30
+Test: 052 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 44604 best Cost: 9546964834 size: 38
+Test: 052 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 60030 best Cost: 14620818224 size: 30
+Test: 052 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 97339 best Cost: 59808 size: 30
+Test: 052 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 94525 best Cost: 16126359239 size: 32
+Test: 052 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 59891 best Cost: 17932430953 size: 30
+Test: 053 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 101161 best Cost: 44306501 size: 75
+Test: 053 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 199393 best Cost: 778313082 size: 61
+Test: 053 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 200122 best Cost: 583008070 size: 67
+Test: 053 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 236608 best Cost: 254647419 size: 99
+Test: 053 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 197433 best Cost: 727578625 size: 49
+Test: 053 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 161893 best Cost: 281 size: 64
+Test: 053 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 170736 best Cost: 792353169 size: 48
+Test: 053 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 138611 best Cost: 1328731309 size: 79
+Test: 053 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 144008 best Cost: 1692924340 size: 69
+Test: 053 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 153577 best Cost: 403135080 size: 67
+Test: 053 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 180580 best Cost: 3466057361 size: 33
+Test: 053 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 119009 best Cost: 1096923954 size: 33
+Test: 053 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 170008 best Cost: 237805223 size: 31
+Test: 053 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 61793 best Cost: 4678034506 size: 30
+Test: 053 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 134595 best Cost: 968431130 size: 30
+Test: 053 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 49218 best Cost: 9525884800 size: 46
+Test: 053 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 60331 best Cost: 14947926474 size: 30
+Test: 053 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 104237 best Cost: 1298273901 size: 36
+Test: 053 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 94959 best Cost: 15888288671 size: 30
+Test: 053 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 60032 best Cost: 18160377736 size: 30
+Test: 053 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 176724 best Cost: 3163112345 size: 31
+Test: 053 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 114641 best Cost: 1058867736 size: 43
+Test: 053 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 154564 best Cost: 42250490 size: 30
+Test: 053 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 57380 best Cost: 4722586332 size: 41
+Test: 053 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 99386 best Cost: 3837207 size: 30
+Test: 053 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 44623 best Cost: 9546964834 size: 38
+Test: 053 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 64703 best Cost: 14613656250 size: 30
+Test: 053 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 97799 best Cost: 59707 size: 34
+Test: 053 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 94865 best Cost: 16126358677 size: 30
+Test: 053 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 59763 best Cost: 17935148791 size: 30
+Test: 054 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 99766 best Cost: 44306501 size: 48
+Test: 054 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 193047 best Cost: 779043528 size: 86
+Test: 054 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 190346 best Cost: 583008071 size: 89
+Test: 054 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 239666 best Cost: 255282107 size: 65
+Test: 054 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 197355 best Cost: 727578625 size: 47
+Test: 054 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 161570 best Cost: 281 size: 58
+Test: 054 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 169845 best Cost: 792353169 size: 30
+Test: 054 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 150744 best Cost: 1270176439 size: 60
+Test: 054 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 142749 best Cost: 1693645208 size: 44
+Test: 054 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 161961 best Cost: 387125118 size: 31
+Test: 054 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 172216 best Cost: 3520573038 size: 30
+Test: 054 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 114199 best Cost: 1097463890 size: 36
+Test: 054 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 160419 best Cost: 240444852 size: 35
+Test: 054 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 58998 best Cost: 4678040131 size: 32
+Test: 054 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 131428 best Cost: 980037555 size: 31
+Test: 054 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 50800 best Cost: 9525884596 size: 36
+Test: 054 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 60346 best Cost: 14947926273 size: 30
+Test: 054 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 99445 best Cost: 1299789741 size: 32
+Test: 054 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 94997 best Cost: 15888288671 size: 30
+Test: 054 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 59812 best Cost: 18160378444 size: 30
+Test: 054 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 176390 best Cost: 3160922778 size: 30
+Test: 054 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 110566 best Cost: 1059897473 size: 37
+Test: 054 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 147249 best Cost: 43225672 size: 36
+Test: 054 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 58236 best Cost: 4722584393 size: 33
+Test: 054 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 99317 best Cost: 3845877 size: 30
+Test: 054 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 44589 best Cost: 9546964834 size: 38
+Test: 054 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 60042 best Cost: 14620812674 size: 30
+Test: 054 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 97554 best Cost: 59708 size: 30
+Test: 054 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 99332 best Cost: 16126349854 size: 31
+Test: 054 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 59914 best Cost: 17932430953 size: 30
+Test: 055 Seed: 4 Instance: a1_1 - Init Cost: 49528750
+iteration: 97073 best Cost: 44306501 size: 80
+Test: 055 Seed: 4 Instance: a1_2 - Init Cost: 1061649570
+iteration: 186452 best Cost: 778681464 size: 98
+Test: 055 Seed: 4 Instance: a1_3 - Init Cost: 583662270
+iteration: 193292 best Cost: 583007650 size: 80
+Test: 055 Seed: 4 Instance: a1_4 - Init Cost: 632499600
+iteration: 243354 best Cost: 255781756 size: 90
+Test: 055 Seed: 4 Instance: a1_5 - Init Cost: 782189690
+iteration: 194518 best Cost: 727578625 size: 75
+Test: 055 Seed: 4 Instance: a2_1 - Init Cost: 391189190
+iteration: 153185 best Cost: 276 size: 37
+Test: 055 Seed: 4 Instance: a2_2 - Init Cost: 1876768120
+iteration: 173853 best Cost: 858359254 size: 50
+Test: 055 Seed: 4 Instance: a2_3 - Init Cost: 2272487840
+iteration: 162030 best Cost: 1346233532 size: 61
+Test: 055 Seed: 4 Instance: a2_4 - Init Cost: 3223516130
+iteration: 149075 best Cost: 1691133296 size: 96
+Test: 055 Seed: 4 Instance: a2_5 - Init Cost: 787355300
+iteration: 154687 best Cost: 395602345 size: 71
+Test: 055 Seed: 4 Instance: b_1 - Init Cost: 7644173180
+iteration: 167388 best Cost: 3453274839 size: 51
+Test: 055 Seed: 4 Instance: b_2 - Init Cost: 5181493830
+iteration: 118365 best Cost: 1111397750 size: 30
+Test: 055 Seed: 4 Instance: b_3 - Init Cost: 6336834660
+iteration: 163433 best Cost: 200421907 size: 30
+Test: 055 Seed: 4 Instance: b_4 - Init Cost: 9209576380
+iteration: 59239 best Cost: 4678037763 size: 31
+Test: 055 Seed: 4 Instance: b_5 - Init Cost: 12426813010
+iteration: 124100 best Cost: 992972366 size: 30
+Test: 055 Seed: 4 Instance: b_6 - Init Cost: 12749861240
+iteration: 45018 best Cost: 9525883350 size: 48
+Test: 055 Seed: 4 Instance: b_7 - Init Cost: 37946901700
+iteration: 63871 best Cost: 14949668099 size: 30
+Test: 055 Seed: 4 Instance: b_8 - Init Cost: 14068207250
+iteration: 100131 best Cost: 1273368438 size: 34
+Test: 055 Seed: 4 Instance: b_9 - Init Cost: 23234641520
+iteration: 101345 best Cost: 15886874642 size: 31
+Test: 055 Seed: 4 Instance: b_10 - Init Cost: 42220868760
+iteration: 63495 best Cost: 18173980429 size: 30
+Test: 055 Seed: 4 Instance: x_1 - Init Cost: 7422426760
+iteration: 160759 best Cost: 3146655208 size: 58
+Test: 055 Seed: 4 Instance: x_2 - Init Cost: 5103634830
+iteration: 112832 best Cost: 1092060692 size: 31
+Test: 055 Seed: 4 Instance: x_3 - Init Cost: 6119933380
+iteration: 142923 best Cost: 16988473 size: 31
+Test: 055 Seed: 4 Instance: x_4 - Init Cost: 9207188610
+iteration: 58893 best Cost: 4723168577 size: 30
+Test: 055 Seed: 4 Instance: x_5 - Init Cost: 12369526590
+iteration: 104335 best Cost: 1266084 size: 30
+Test: 055 Seed: 4 Instance: x_6 - Init Cost: 12753566360
+iteration: 46235 best Cost: 9546966888 size: 33
+Test: 055 Seed: 4 Instance: x_7 - Init Cost: 37763791230
+iteration: 59818 best Cost: 14607777009 size: 30
+Test: 055 Seed: 4 Instance: x_8 - Init Cost: 11611565600
+iteration: 97777 best Cost: 63350 size: 32
+Test: 055 Seed: 4 Instance: x_9 - Init Cost: 23146106380
+iteration: 94962 best Cost: 16126499202 size: 34
+Test: 055 Seed: 4 Instance: x_10 - Init Cost: 42201640770
+iteration: 59813 best Cost: 17953414155 size: 30
