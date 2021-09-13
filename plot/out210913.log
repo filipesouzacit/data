@@ -1,0 +1,10 @@
+createPlotLines.py:44: RuntimeWarning: divide by zero encountered in log
+  resultsLog.append(np.log(r))
+createPlotLines.py:44: RuntimeWarning: divide by zero encountered in log
+  resultsLog.append(np.log(r))
+createPlotLines.py:44: RuntimeWarning: divide by zero encountered in log
+  resultsLog.append(np.log(r))
+createPlotLines.py:44: RuntimeWarning: divide by zero encountered in log
+  resultsLog.append(np.log(r))
+createPlotLines.py:44: RuntimeWarning: divide by zero encountered in log
+  resultsLog.append(np.log(r))
